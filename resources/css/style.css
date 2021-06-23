@@ -1,0 +1,101 @@
+/*RESET STYLES */
+
+html{
+  display: block;
+}
+
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+}
+
+header{
+  position: relative;
+  font-weight: normal;
+  margin: 0 auto;
+}
+
+header h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.wrapper{
+
+}
+
+.subtitle h3{
+  color: aquamarine;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.iphone{
+
+}
+
+.travel{
+
+  position: relative;
+  display: block;
+  flex-flow: column;
+  height: 700px;
+
+}
+
+.travel h2{
+  display: block;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.travel p{
+  display: block;
+  color: gray;
+  font-size: 21px;
+  
+}
+
+.travel img{
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  align-content: center;
+  width: 896px;
+  height: 527px;
+}
+
+.cell img{
+  display: block;
+  margin: 0 auto;
+  width: 64px;
+  height: 108px;
+  position: relative;
+}
+
+.preview{
+  display: block;
+  position: relative;
+}
+
+.preview h2{
+  display: block;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.preview h3{
+  display: block;
+  color: aquamarine;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+footer, h4{
+  float: right;
+  color: gray;
+  position: relative;
+  font-weight: normal;
+}
